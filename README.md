@@ -20,7 +20,7 @@ npm run dev
 
 ## GitHub Pages
 
-推送到 `main` 后，`.github/workflows/pages.yml` 会构建并发布静态站点。
+静态构建产物发布在 `gh-pages` 分支，站点源码保存在 `main` 分支。
 
 ## 安全说明
 
